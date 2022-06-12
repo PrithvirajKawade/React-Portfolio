@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
+import React from 'react'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
@@ -15,7 +16,7 @@ const Contact = () => {
     }, 3000)
   }, [])
 
-  const sendEmail = (e) => {
+  const sendEmail = e => {
     e.preventDefault()
 
     emailjs

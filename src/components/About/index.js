@@ -1,4 +1,5 @@
 import './index.scss'
+import React from 'react'
 import AnimatedLetters from '../AnimatedLetters'
 import { useEffect, useState } from 'react'
 import Loader from 'react-loaders'
