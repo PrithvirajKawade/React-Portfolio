@@ -1,0 +1,52 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/weather/1.png",
+      "title": "Weather App",
+      "description": "Javascript, HTML, CSS, API's",
+      "url": "https://prithvirajkawade.github.io/Weather-App/"
+    },
+    {
+      "cover": "/portfolio/calculator/2.png",
+      "title": "Calculator App",
+      "description": "Javascript, HTML, CSS",
+      "url": "https://prithvirajkawade.github.io/Calculator/"
+    },
+    {
+      "cover": "/portfolio/booklibrary/3.png",
+      "title": "My Book Library",
+      "description": "Javascript, HTML, CSS",
+      "url": "https://prithvirajkawade.github.io/MyBookLibrary/"
+    },
+    {
+      "cover": "/portfolio/spacex/4.png",
+      "title": "Space X Programs",
+      "description": "Javascript, HTML, CSS, API's",
+      "url": "https://prithvirajkawade.github.io/SpaceX-Programs/"
+    },
+    {
+      "cover": "/portfolio/restuarant/5.png",
+      "title": "Restuarant Landing Page",
+      "description": "Javascript",
+      "url": "https://prithvirajkawade.github.io/Restuarant-Landing-Page/"
+    },
+    {
+      "cover": "/portfolio/signupform/6.png",
+      "title": "Sign Up Form",
+      "description": "Javascript, HTML, CSS",
+      "url": "https://prithvirajkawade.github.io/Sign-Up-Page/"
+    },
+    {
+      "cover": "/portfolio/bootstrappage/7.png",
+      "title": "Responsive Landing Page",
+      "description": "BootStrap, Javascript, HTML, CSS",
+      "url": "https://prithvirajkawade.github.io/-BootStrap-Responsive-Website/"
+    },
+    {
+      "cover": "/portfolio/sketch/8.png",
+      "title": "Etch A Sketch",
+      "description": "Javascript, HTML, CSS",
+      "url": "https://prithvirajkawade.github.io/ETCH-A-SKETCH/"
+    }
+  ]
+}
