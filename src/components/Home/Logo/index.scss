@@ -9,6 +9,8 @@
   bottom: 0;
   left: auto;
   margin: auto;
+  animation: fadeIn 1s forwards;
+  animation-delay: 3s;
 
   svg {
     width: 100%;
@@ -30,6 +32,8 @@
     z-index: 1;
     width: 500px;
     height: 700px;
+    animation: fadeIn 1s forwards;
+    animation-delay: 1s;
   }
 }
 
