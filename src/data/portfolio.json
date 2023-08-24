@@ -1,6 +1,12 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/codepen/9.png",
+      "title": "CodePen Clone",
+      "description": "Javascript, HTML, CSS, React",
+      "url": "https://prithvirajkawade.github.io/CodePen-Clone/"
+    },
+    {
       "cover": "/portfolio/weather/1.png",
       "title": "Weather App",
       "description": "Javascript, HTML, CSS, API's",
